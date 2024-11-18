@@ -1,6 +1,6 @@
 
-const name = "name";
-document.getElementById("name").innerText = Sana Ji;
+const name = "Sana Ji";
+document.getElementById("name").innerText =name;
 
 const quotes = [
   "You Know Sana You Are a Star From My Galaxy ❤️",
