@@ -13,9 +13,6 @@ display: initial;
         }
         .raindrop {
             position: absolute;
-            width: 2px;
-            height: 20px;
-            background: rgba(255, 255, 255, 0.8);
             animation: fall linear infinite;
             z-index: 0;
         }
